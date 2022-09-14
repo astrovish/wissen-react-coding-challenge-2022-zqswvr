@@ -42,7 +42,6 @@ const App = () => {
       <div>
         <div>
           <h3>Hello there, Sign in to continue</h3>
-
           <div>
             <form onSubmit={handleSubmit}>
               <div>
